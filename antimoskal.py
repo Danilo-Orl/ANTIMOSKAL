@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 #Coded by HC The Chlous
-#Edited by S_K
+#Edited by S1LVER K1NG
 import threading
 import random
 import time
@@ -440,3 +440,4 @@ while True:
             break
 #Code By HC the Chlous
 #Credits: Leeon123 and 4l3xPr0
+#Edited by S1LVER K1NG
