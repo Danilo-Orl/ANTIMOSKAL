@@ -1,5 +1,5 @@
-```diff
-
+```html
+<span style="color:green;">
 -                       ██                        
                       ████▒▒                      
 ██                    ████▓▓                    ██
@@ -40,7 +40,8 @@
                     ▒▒████████                    
                       ██████                      
                         ██   
-```
+</span>
+  ```
 
 
 ![](https://img.shields.io/badge/Version-1.2.8-brightgreen.svg) ![](https://img.shields.io/badge/license-MIT-blue.svg)
