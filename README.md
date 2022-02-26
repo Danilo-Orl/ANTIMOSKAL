@@ -1,6 +1,11 @@
-- ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `#f03c15`
-```html
--                       ██                        
+
+<style>
+H1{color:Blue !important;}
+H2{color:DarkOrange !important;}
+p{color:Black !important;}
+</style>
+#
+                        ██                        
                       ████▒▒                      
 ██                    ████▓▓                    ██
 ████                  ██████                  ▓▓▒▒
@@ -40,7 +45,7 @@
                     ▒▒████████                    
                       ██████                      
                         ██   
-</span>
+#
   ```
 
 
